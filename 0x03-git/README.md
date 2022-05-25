@@ -1,1 +1,2 @@
-My second readme
+-ALX is so cool
+-It take determination to go through ALX
